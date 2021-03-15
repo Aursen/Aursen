@@ -4,11 +4,11 @@
 
   <div align="center">
   
-  <a href="https://github.com/AXeL-dev">
+  <a href="https://github.com/Aursen">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aursen&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="AXeL's github stats" />
   </a>
   
-  <a href="https://github.com/AXeL-dev">
+  <a href="https://github.com/Aursen">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aursen&layout=compact&hide_border=true" alt="Top Langs" />
   </a>
   
