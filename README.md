@@ -9,7 +9,7 @@
   </a>
   
   <a href="https://github.com/Aursen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aursen&layout=compact&hide_border=true" alt="Top Langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aursen&count_private=true&layout=compact&hide_border=true" alt="Top Langs" />
   </a>
   
   <br/>
@@ -19,11 +19,11 @@
 
   </div>
 
-## Connect with me:
+<!-- ## Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/jeanm98/
+[linkedin]: https://www.linkedin.com/in/jeanm98/ -->
 <!--
 **Aursen/Aursen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
