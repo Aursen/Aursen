@@ -7,12 +7,6 @@
   <a href="https://github.com/Aursen">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aursen&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="AXeL's github stats" />
   </a>
-  
-  <a href="https://github.com/Aursen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aursen&count_private=true&layout=compact&hide_border=true" alt="Top Langs" />
-  </a>
-  
-  <br/>
   <br/>
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=aursen)
