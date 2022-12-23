@@ -5,7 +5,7 @@
   <div align="center">
   
   <a href="https://github.com/Aursen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aursen&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="AXeL's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aursen&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="Aursen github stats" />
   </a>
   <br/>
   
@@ -13,11 +13,11 @@
 
   </div>
 
-<!-- ## Connect with me:
+## Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/jeanm98/ -->
+[linkedin]: https://www.linkedin.com/in/jeanm98/
 <!--
 **Aursen/Aursen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
